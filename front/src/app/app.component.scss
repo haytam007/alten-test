@@ -1,0 +1,17 @@
+.app-content {
+    overflow: hidden;
+    height: 100%;
+
+    
+}    .badge {
+        background-color: red;
+        color: white;
+        border-radius: 50%;
+        padding: 0.3rem 0.6rem;
+        font-size: 0.8rem;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(50%, -50%);
+        display: inline-block;
+    }
